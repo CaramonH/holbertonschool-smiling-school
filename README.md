@@ -26,8 +26,7 @@ Before you begin, make sure you have the following imports in place:
 
 ## Design Screens
 
-For the project design screens, please refer to the following link: [Design Screens](https://www.figma.com/file/hcxMqRWjdj06jHycRkbzOf/Homepage?type=design&node-id=0-1&mode=design)
-
+For the project design screens, please refer to the following link: [Homepage](https://www.figma.com/file/hcxMqRWjdj06jHycRkbzOf/Homepage?type=design&node-id=0-1&mode=design) [Pricing](https://www.figma.com/file/QQmdkH49hKJuJ6244fBXzH/Pricing?type=design&node-id=0-1&mode=design) [Courses](https://www.figma.com/file/zKRy0vMRBjwHaKBn1WnavS/Courses?type=design&node-id=0-1&mode=design)
 
 ## Usage
 
