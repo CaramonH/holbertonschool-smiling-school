@@ -1,3 +1,4 @@
+/* Variables */
 :root {
     --font-family: 'Source Sans Pro', serif;
     --color-primary: #C271FF;
@@ -25,6 +26,16 @@ body{
 
 .border-gray {
     border-color: var(--color-gray) !important;
+}
+
+.leftArrow:before {
+    content: "\e903";
+    font-size: 8rem;
+}
+
+.rightArrow:before {
+    content: "\e902";
+    font-size: 8rem;
 }
 
 /* BACKGROUND */
@@ -96,4 +107,21 @@ li a:focus {
 .navbar-toggler {
     font-size: 2.25rem;
     top: 3rem;
+}
+
+/* CAROUSELS */
+.carousel-avatar {
+    margin-top: 2rem;
+}
+
+.phone {
+    display: block;
+}
+
+.tablet {
+    display: none;
+}
+
+.desktop {
+    display: none;
 }
