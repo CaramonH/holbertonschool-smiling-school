@@ -126,6 +126,46 @@ li a:focus {
     display: none;
 }
 
+/* VIDEO CAROUSEL */
+
+.pl-6 {
+    padding-left: 3.5rem;
+    padding-right: 3rem;
+}
+
+.mins {
+    padding-left: 5rem;
+}
+
+.videoLeft {
+    top: 8.5rem;
+    padding-right: 1rem;
+    padding-left: auto;
+}
+
+.videoRight {
+    top: 8.5rem;
+    padding-left: 1rem;
+    padding-right: auto;
+}
+
+.search {
+    color: white;
+    font-size: 1.75rem;
+    opacity: .8;
+}
+
+::placeholder {
+    color: lightgrey;
+    font-size: 1.75rem;
+    opacity: .6;
+}
+
+.play {
+    height: 125px;
+    width: 125px;
+}
+
 /* SIZING */
 @media (min-width: 576px) and (max-width: 767px) {
     .carousel-helper {
