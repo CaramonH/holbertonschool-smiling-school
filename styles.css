@@ -125,3 +125,80 @@ li a:focus {
 .desktop {
     display: none;
 }
+
+/* SIZING */
+@media (min-width: 576px) and (max-width: 767px) {
+    .carousel-helper {
+        margin-left: 5.7rem;
+    }
+    .carousel-avatar {
+        margin-top: 0;
+    }
+    .phone {
+        display: none;
+    }
+    .tablet {
+        display: block;
+    }
+    .desktop {
+        display: none;
+    }
+    .pl-6 {
+        padding-left: 1rem;
+    }
+    .pl-6-left {
+        padding-left: 1rem;
+    }
+    .tabletHelper {
+        padding-left: 5.15rem;
+    }
+    .rowHelper {
+        padding-left: 6rem;
+    }
+    .play {
+        height: 90px;
+        width: 90px;
+        margin-top: 1.25rem !important;
+    }
+}
+
+@media (min-width: 768px) {
+    .col-md-3 {
+        -ms-flex: 0 0 25%;
+        flex: 0 0 21%;
+        max-width: 25%;
+    }
+    .carousel-avatar {
+        width: 165px;
+        margin-top: 0;
+    }
+    .carousel-helper {
+        margin-left: 9.5rem;
+    }
+    .pl-6 {
+        padding-left: 1.0rem;
+    }
+    .pl-6-left {
+        padding-left: 1.75rem;
+    }
+    .videoLeft {
+        left: -8rem;
+    }
+    .videoRight {
+        right: -7.5rem;
+    }
+    .phone {
+        display: none;
+    }
+    .tablet {
+        display: none;
+    }
+    .desktop {
+        display: block;
+    }
+    .play {
+        height: 90px;
+        width: 90px;
+        margin-top: 2.25rem !important;
+    }
+}
