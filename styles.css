@@ -60,14 +60,14 @@ body{
 }
 
 .courses {
-    background-image: url('');
+    background-image: url('images/pic_3.jpg');
     background-repeat: no-repeat;
     background-position: center top;
     background-size: cover;
 }
 
 .pricing {
-    background-image: url('');
+    background-image: url('images/pic_2.jpg');
     background-repeat: no-repeat;
     background-position: center top;
     background-size: cover;
@@ -178,6 +178,8 @@ li a:focus {
     height: 125px;
     width: 125px;
 }
+
+/* FOOTER */
 
 /* SIZING */
 @media (min-width: 576px) and (max-width: 767px) {
